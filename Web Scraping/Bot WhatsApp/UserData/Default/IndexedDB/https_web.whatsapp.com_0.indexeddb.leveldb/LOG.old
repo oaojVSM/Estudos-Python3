@@ -1,0 +1,12 @@
+2021/09/08-21:12:03.626 3ce8 Reusing MANIFEST C:\Users\Joao\Desktop\Bot WhatsApp\UserData\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/08-21:12:03.626 3ce8 Recovering log #11
+2021/09/08-21:12:03.665 3ce8 Reusing old log C:\Users\Joao\Desktop\Bot WhatsApp\UserData\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000011.log 
+2021/09/08-21:14:22.696 3ce8 Level-0 table #16: started
+2021/09/08-21:14:22.728 3ce8 Level-0 table #16: 1214550 bytes OK
+2021/09/08-21:14:22.731 3ce8 Delete type=0 #11
+2021/09/08-21:14:29.554 dec Compacting 1@1 + 1@2 files
+2021/09/08-21:14:29.608 dec Generated table #17@1: 32713 keys, 1267907 bytes
+2021/09/08-21:14:29.608 dec Compacted 1@1 + 1@2 files => 1267907 bytes
+2021/09/08-21:14:29.611 dec compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/08-21:14:29.611 dec Delete type=2 #13
+2021/09/08-21:14:29.611 dec Delete type=2 #16
